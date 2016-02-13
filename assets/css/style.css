@@ -5,8 +5,7 @@ body {
 /*header*/
 
 header {
-	background-image: url("/assets/images/ab640.jpg");
-	min-height: 250px;
+/*	background-image: url("/assets/images/ab640.jpg");*/	min-height: 250px;
 	padding: 30px;
 }
 
