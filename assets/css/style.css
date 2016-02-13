@@ -1,0 +1,91 @@
+body {
+	background-color: #002F2F;
+}
+
+/*header*/
+
+header {
+	background-image: url("/assets/images/ab640.jpg");
+	min-height: 250px;
+	padding: 30px;
+}
+
+nav	{
+	text-align: center;
+	background-color: #0E4941;
+	min-height: 30px;
+	vertical-align: middle;
+	margin-bottom: 10px;
+}
+
+nav a {
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 0px 60px 0px 60px;
+	text-decoration: none;
+	color: #00FF99;
+	font-family: tahoma, arial, serif;
+	font-size: 20pt;
+}
+
+.main {
+	float: left;
+	margin-left: 100px;
+	width: 65%;
+	padding-bottom: 50px;
+}
+
+#news {
+	color: #00C795;
+}
+
+h1 {
+	font-size: 30pt;
+	margin-bottom: 25px;
+}
+
+h3 {
+	font-size: 15pt;
+	margin-bottom: 5px;
+}
+
+p {
+	margin-bottom: 10px;
+}
+
+
+
+
+
+
+.sidebar {
+	float: left;
+	margin: 25px 0px 50px 100px;
+	background-color: #006B36;
+}
+
+.social {
+	padding: 20px;
+	color: #00FF99;
+}
+
+.social a {
+	text-decoration: none;
+}
+
+footer {
+	width: 100%;
+	background-color: #0E4941;
+	position:fixed;
+	min-height: 25px;
+	border-top: solid #00C795 2px;
+	border-bottom: solid #00C795 2px;
+	color: #00C795;
+	text-align: center;
+	margin-top: 20px;
+	bottom: 0;
+}
+
+#copyright {
+	padding-top: 3px;
+}
